@@ -395,3 +395,5 @@ tags:
 在storyboard中的`TextField`控件的Calss类型选择该类`BYPhoneNumTF`即可。
 
 代码及Demo下载地址：[BYPhoneNumTF](https://github.com/qiubaiying/BYPhoneNumTF)
+
+>转自<a href="https://www.jianshu.com/u/e71990ada2fd">柏荧-简书</a>
