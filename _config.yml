@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: disqus_PpQ3eEhdN6
 
 # Gitalk
 gitalk:
@@ -99,7 +99,7 @@ service-worker: true
 # Friends
 friends: [
       {
-        title: "简书·BY",
+        title: "简书·YB",
         href: "https://www.jianshu.com/u/2430e8da75f6"
     },{
         title: "Apple",
