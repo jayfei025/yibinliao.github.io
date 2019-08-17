@@ -1514,5 +1514,5 @@ end
 @end
 
 ```
-
+>转自<a href="https://www.jianshu.com/u/e71990ada2fd">柏荧-简书</a>
 >最后附上GitHub：<https://github.com/qiubaiying/ReactiveCocoa_Demo>
